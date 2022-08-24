@@ -2,7 +2,6 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <body>
-<p>厦门狄耐克车牌识别开源程序</p>
 <p>1、pfld：车牌四角定位训练代码<br />
   reference：<br />
   PFLD: A Practical Facial Landmark Detector https://arxiv.org/pdf/1902.10859.pdf<br />
